@@ -7,9 +7,9 @@ This repository contains the starter code for the project in [**IBM-CD0285EN-Ski
 
 ## Usage
 
-Start DevOps Capstone project. It contains all of the code that you will need to get started.
+DevOps Capstone project. It contains all of the code that you will need to get started.
 
-Do Not fork this code! It is meant to be used by pressing the  <span style=color:white;background:green>**Use this Project**</span> button in GitHub. This will copy the code to your own repository with no connection back to the original repository like a fork would. This is what you want.
+Do Not fork this code! It is meant to be used by pressing the  <span style=color:white;background:green>**Use this Template**</span> button in GitHub. This will copy the code to your own repository with no connection back to the original repository like a fork would. This is what you want.
 
 ## Development Environment
 
