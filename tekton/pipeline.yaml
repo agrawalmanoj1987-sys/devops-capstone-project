@@ -59,7 +59,7 @@ spec:
       taskRef:
         name: nose
       params:
-        - name: IMAGE
+        - name: image
           value: "python:3.9-slim"
         - name: args
           value: "-v"
