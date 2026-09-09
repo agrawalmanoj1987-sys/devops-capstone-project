@@ -59,10 +59,10 @@ spec:
       taskRef:
         name: nose
       params:
-        - name: IMAGE
-          value: "$(params.build-image)"
+        - name: image
+          value: "python:3.9-slim"
         - name: args
-          value: "-v --with-spec --spec-color"
+          value: "-v"
       runAfter:
         - clone
 
